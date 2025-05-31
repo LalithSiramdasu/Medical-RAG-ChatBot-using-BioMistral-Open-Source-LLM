@@ -30,7 +30,6 @@ Vector Store: FAISS / ChromaDB
 📦 Installation
 
 https://github.com/LalithSiramdasu/Medical-RAG-ChatBot-using-BioMistral-Open-Source-LLM.git
-pip install -r requirements.txt
 
 ⚙️ Usage
 
@@ -60,6 +59,6 @@ This chatbot is for educational and research purposes only. It does not replace 
 
 👨‍💼 Author
 
-Made with ❤️ by S.Lalith KumarFeel free to contribute, raise issues, or suggest features.
+Made with ❤️ by S.Lalith Kumar Feel free to contribute, raise issues, or suggest features.
 
 ⭐ Star this repo if you find it helpful!
